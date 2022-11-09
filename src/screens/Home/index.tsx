@@ -1,13 +1,14 @@
 import React from 'react';
-import { LoaderUI1 } from '../../components/Loader';
-import { Container, Title } from './style'
+import { Title } from './style'
+import { Box, Button, Container } from 'native-base'
 
 export const Home = () => {
     return (
         <>
             <Container>
-                <Title>React Native</Title>
-                
+                <Box>
+                    <Button>Get Started</Button>
+                </Box>
             </Container>
         </>
     );

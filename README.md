@@ -1,2 +1,2 @@
 # login-react-native
-⚡📝 React Native + NativeBar + Formik 
+⚡📝 React Native + NativeBase + Styled-components 
